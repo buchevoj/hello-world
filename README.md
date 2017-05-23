@@ -1,3 +1,3 @@
 # hello-world
 
-It`s just trying somthing new.
+Its just trying something new.
